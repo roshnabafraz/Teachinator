@@ -2,8 +2,8 @@
 
 A console-based C++ program that guesses which teacher a user is thinking of by asking simple questions. Built as a 2nd semester OOP project using structures, file handling, and a scoring-based matching system.
 
-'Check the slides to understand the whole Project'
-
+`Check the slides to understand the whole Project`
+  
 ---
 
 ## 📌 Features
